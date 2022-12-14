@@ -1,0 +1,19 @@
+
+title = 1
+
+[windfields.Mann]
+fn_u = "turb/TC_turbU_119_recast.bin"
+fn_v = "turb/TC_turbV_119_recast.bin"
+fn_w = "turb/TC_turbW_119_recast.bin"
+Nx = 11250
+Ny = 800
+Nz = 322
+Lx = 1000
+Ly = 7430.7
+Lz = 1497.28
+ae = 1
+L = 30
+gamma = 3.2
+asdf = 1.1
+seed = 1
+
